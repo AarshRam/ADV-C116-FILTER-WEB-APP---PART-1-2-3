@@ -1,0 +1,11 @@
+.btn-success{
+    font-size: 30px;
+    color: royalblue;
+    font-weight: bolder;
+}
+
+canvas{
+    border-radius: 5px;
+    border-color: royalblue;
+    border-style: groove;
+}
